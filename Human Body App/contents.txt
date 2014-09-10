@@ -1,0 +1,1 @@
+This folder will contain the human body map and image mapping files.
